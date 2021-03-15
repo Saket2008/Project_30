@@ -1,2 +1,2 @@
 # TowerSiege-2
-Mam tint is not working i think. Or there is some problem in 'World.remove'. Pls tell what to do. I tried all the ways but sometimes color changes and sometime the rectangle boxes keep displaying.
+Mam everything is working fine but the boxes are going inside the stand. Can you tell why it is happening?
